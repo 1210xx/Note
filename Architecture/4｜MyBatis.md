@@ -1,4 +1,4 @@
-使用MyBatis提供的[[ORM]]机制，对业务逻辑人员而言，面对的纯粹的Java对象，这一层与通过[[Hibernate]]实现ORM而言基本一致。
+使用MyBatis提供的[[2｜ORM]]机制，对业务逻辑人员而言，面对的纯粹的Java对象，这一层与通过[[3｜Hibernate]]实现ORM而言基本一致。
 
 对于其他的操作，Hibernate会自动生成SQL语言，而MyBatis需要开发者编写具体的SQL语句。
 
